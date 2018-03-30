@@ -1,0 +1,28 @@
+{
+  "name": "emoji-print",
+  "version": "0.1.0",
+  "description":
+    "Simple utility for logging with emojis, also with static props to return the string value to do your own strings with any emoji.",
+  "main": "dist/main",
+  "typings": "dist/main.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradmartin/emoji-print"
+  },
+  "scripts": {
+    "clean-dist": "rimraf dist",
+    "dev": "tsc && webpack --mode development",
+    "build": "tsc && webpack --mode production"
+  },
+  "keywords": ["TypeScript", "bradmartin", "emoji", "console", "logs"],
+  "author":
+    "Brad Martin <bradwaynemartin@gmail.com> (https://github.com/bradmartin)",
+  "license": "Apache-2.0",
+  "bugs": "https://github.com/bradmartin/emoji-print/issues",
+  "homepage": "https://github.com/bradmartin/emoji-print",
+  "devDependencies": {
+    "typescript": "^2.8.1",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13"
+  }
+}
