@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description":
     "Simple utility for logging with emojis, also with static props to return the string value to do your own strings with any emoji.",
-  "main": "dist/main",
-  "typings": "dist/main.d.ts",
+  "main": "dist/emoji-print",
+  "typings": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/bradmartin/emoji-print"
