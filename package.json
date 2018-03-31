@@ -1,6 +1,6 @@
 {
   "name": "emoji-print",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description":
     "Simple utility for logging with emojis, also with static props to return the string value to do your own strings with any emoji.",
   "main": "dist/emoji-print",
@@ -17,7 +17,7 @@
   "keywords": ["TypeScript", "bradmartin", "emoji", "console", "logs"],
   "author":
     "Brad Martin <bradwaynemartin@gmail.com> (https://github.com/bradmartin)",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "bugs": "https://github.com/bradmartin/emoji-print/issues",
   "homepage": "https://github.com/bradmartin/emoji-print",
   "devDependencies": {
