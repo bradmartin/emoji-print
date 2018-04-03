@@ -399,6 +399,15 @@ export class Emoji {
     bell_with_slash: fCP(0x1f515)
   };
 
+  public static Medals = {
+    military: fCP(0x1f396),
+    trophy: fCP(0x1f3c6),
+    sports: fCP(0x1f3c5),
+    gold: fCP(0x1f947),
+    silver: fCP(0x1f948),
+    bronze: fCP(0x1f949)
+  };
+
   public static Music = {
     musical_score: fCP(0x1f3bc),
     musical_note: fCP(0x1f3b5),
@@ -418,6 +427,28 @@ export class Emoji {
     trumpet: fCP(0x1f3ba),
     violin: fCP(0x1f3bb),
     drum: fCP(0x1f941)
+  };
+
+  public static Office = {
+    briefcase: fCP(0x1f4bc),
+    file_folder: fCP(0x1f4c1),
+    open_file_folder: fCP(0x1f4c2),
+    calendar: fCP(0x1f4c5),
+    tear_off_calendar: fCP(0x1f4c6),
+    spiral_notepad: fCP(0x1f5d2),
+    sprial_calendar: fCP(0x1f5d3),
+    card_index: fCP(0x1f4c7),
+    chart_increasing: fCP(0x1f4c8),
+    chart_decreasing: fCP(0x1f4c9),
+    bar_chart: fCP(0x1f4ca),
+    clipboard: fCP(0x1f4cb),
+    pushpin: fCP(0x1f4cc),
+    paperclip: fCP(0x1f4ce),
+    ruler: fCP(0x1f4cf),
+    scissors: fCP(0x2702),
+    card_file_box: fCP(0x1f5c3),
+    file_cabinet: fCP(0x1f5c4),
+    wastebasket: fCP(0x1f5d1)
   };
 
   public static Phone = {
@@ -555,6 +586,62 @@ export class Emoji {
     trade_mark: fCP(0x2122),
     hundred: fCP(0x1f4af),
     stop_sign: fCP(0x1f6d1)
+  };
+
+  public static Transport = {
+    airplane: fCP(0x2708),
+    small_plane: fCP(0x1f6e9),
+    plane_departure: fCP(0x1f6eb),
+    plane_arrival: fCP(0x1f6ec),
+    seat: fCP(0x1f4ba),
+    helicopter: fCP(0x1f681),
+    suspension_railway: fCP(0x1f69f),
+    mountain_cableway: fCP(0x1f6a0),
+    aerial_tramway: fCP(0x1f6a1),
+    satellite: fCP(0x1f6f0),
+    rocket: fCP(0x1f680),
+    ufo: fCP(0x1f6f8),
+    anchor: fCP(0x2693),
+    sailboat: fCP(0x26f5),
+    canoe: fCP(0x1f6f6),
+    speedboat: fCP(0x1f6a4),
+    cruise_ship: fCP(0x1f6f3),
+    ferry: fCP(0x26f4),
+    motor_boat: fCP(0x1f6e5),
+    ship: fCP(0x1f6a2),
+    locomotive: fCP(0x1f682),
+    railway_car: fCP(0x1f683),
+    high_speed_train: fCP(0x1f684),
+    bullet_train: fCP(0x1f685),
+    train: fCP(0x1f686),
+    metro: fCP(0x1f687),
+    light_rail: fCP(0x1f688),
+    station: fCP(0x1f689),
+    tram: fCP(0x1f68a),
+    monorail: fCP(0x1f69d),
+    mountain_railway: fCP(0x1f69e),
+    tram_car: fCP(0x1f68b),
+    bus: fCP(0x1f68c),
+    trolley: fCP(0x1f68e),
+    minibus: fCP(0x1f690),
+    ambulance: fCP(0x1f691),
+    fire_engine: fCP(0x1f692),
+    police: fCP(0x1f693),
+    taxi: fCP(0x1f695),
+    car: fCP(0x1f697),
+    suv: fCP(0x1f699),
+    delivery_truck: fCP(0x1f69a),
+    tractor: fCP(0x1f69c),
+    bicycle: fCP(0x1f6b2),
+    kick_scooter: fCP(0x1f6f4),
+    skateboard: fCP(0x1f6f9),
+    motor_scooter: fCP(0x1f6f5),
+    bus_stop: fCP(0x1f68f),
+    traffic_light: fCP(0x1f6a6),
+    police_light: fCP(0x1f6a8),
+    fuel_pump: fCP(0x26fd),
+    oil_drum: fCP(0x1f6e2),
+    railway_track: fCP(0x1f6e4)
   };
 
   public static Flag = {

@@ -1,6 +1,6 @@
 {
   "name": "emoji-print",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description":
     "Simple utility for logging with emojis, also with static props to return the string value to do your own strings with any emoji.",
   "main": "dist/emoji-print",

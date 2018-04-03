@@ -72,7 +72,7 @@ This will expose a variable `emojiPrint` for the library, made possible through 
 ```html
 <button onclick="doSomething()"></button>
 
-<script src="https://unpkg.com/emoji-print@0.1.0/dist/emoji-print.js"></script>
+<script src="https://unpkg.com/emoji-print@0.2.0/dist/emoji-print.js"></script>
 <script>
   function doSomething() {
     console.log(emojiPrint.Emoji.Food.tomato);
